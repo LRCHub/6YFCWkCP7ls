@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Hustle Mr.Hopper",
+  "base_artist": "POT",
+  "createdAt": "2026-04-01T10:41:21.740591Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hustle Mr.Hopper",
+      "artist": "POT",
+      "has_synced": false,
+      "path": "select/pl_01_Hustle_Mr.Hopper_POT.txt"
+    }
+  ]
+}
